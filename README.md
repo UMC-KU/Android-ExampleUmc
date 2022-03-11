@@ -1,4 +1,4 @@
-## 저희는 "Exmaple Umc 팀" 입니다!
+## 저희는 "Example Umc 팀" 입니다!
 <p align="center"><img width="640" alt="스크린샷 2022-03-11 오후 4 43 28" src="https://user-images.githubusercontent.com/79785454/157824354-bda920ca-1116-4a91-a552-922e4fea1083.png"></p>
 
 ### Member
